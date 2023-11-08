@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AviaApp.Lib", "AviaApp\AviaApp.Lib.csproj", "{8922E94B-E9EC-4AE1-B6B0-8F4CC611F5C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AviaApp.Lib.Test1", "AviaApp.Lib.Test1\AviaApp.Lib.Test1.csproj", "{485185E6-2F0B-4EC7-9887-CA2F2C7FEA42}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3CBFCCA7-5D49-4029-9842-CEDBACC8B28C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8922E94B-E9EC-4AE1-B6B0-8F4CC611F5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8922E94B-E9EC-4AE1-B6B0-8F4CC611F5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8922E94B-E9EC-4AE1-B6B0-8F4CC611F5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8922E94B-E9EC-4AE1-B6B0-8F4CC611F5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485185E6-2F0B-4EC7-9887-CA2F2C7FEA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485185E6-2F0B-4EC7-9887-CA2F2C7FEA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485185E6-2F0B-4EC7-9887-CA2F2C7FEA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485185E6-2F0B-4EC7-9887-CA2F2C7FEA42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA4E9F6F-CCAC-4EF1-9364-074D5D5C5E1E}
+	EndGlobalSection
+EndGlobal
